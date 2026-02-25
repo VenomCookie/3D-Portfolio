@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 140'>
+      <g fill='#3b3f49' stroke='#191c22' stroke-width='2'>
+        <path d='M40 90 L70 80 L80 95 L60 110 Z'/>
+        <path d='M95 70 L125 60 L135 80 L110 90 Z'/>
+        <path d='M140 85 L165 75 L175 88 L155 100 Z'/>
+      </g>
+      <circle cx='80' cy='120' r='2' fill='#565b66'/>
+      <circle cx='100' cy='115' r='2' fill='#565b66'/>
+      <circle cx='120' cy='118' r='2' fill='#565b66'/>
+    </svg>

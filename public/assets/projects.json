@@ -1,0 +1,237 @@
+{
+  "projects": [
+    {
+      "slug": "firstgendocs",
+      "title": "FirstGenDoctors Website Re-Design",
+      "year": 2025,
+      "role": "Design & Engineering",
+      "subtitle": "Selected work",
+      "cover": "assets/images/firstgendocs_01.jpg",
+      "description": "",
+      "images": [
+        "assets/images/firstgendocs_01.jpg"
+      ],
+      "videos": [],
+      "collaborators": [],
+      "order": 80,
+      "overlayTitle": "Website Design"
+    },
+    {
+      "slug": "electronics",
+      "title": "Electronics",
+      "year": 2025,
+      "role": "Embedded / CAD / Prototyping",
+      "subtitle": "Selected experiments & builds",
+      "cover": "assets/images/electronics_cover.png",
+      "description": "A snapshot of my ESP32 work. I created a Chimp Memory sequence game with flashing LEDS, where you input the sequence into an app while you try to remember all the previous numbers! We also created a little device that relays messages via hexadecimal, akin to the movie The Martian. Simply send your message to the device, and it will point to the corresponding hex characters to relay it.",
+      "overlayTitle": "Electronics",
+      "order": 70,
+      "images": [
+        "assets/images/electronics_01.jpg"
+      ],
+      "videos": [
+        "assets/videos/electronics_01.mp4",
+        "assets/videos/electronics_02.mp4",
+        "assets/videos/electronics_03.mp4",
+        "assets/videos/electronics_04.mp4"
+      ],
+      "collaborators": []
+    },
+    {
+      "slug": "rhythmrush",
+      "title": "RhythmRush",
+      "year": 2025,
+      "role": "Design & Engineering",
+      "subtitle": "Discovery & Delivery Report",
+      "cover": "assets/images/rhythmrush_coverpage.png",
+      "description": "",
+      "pdf": "assets/docs/rhythmrush.pdf",
+      "images": [],
+      "videos": [],
+      "collaborators": [
+        {
+          "name": "Ruaridh Murdoch",
+          "url": "https://www.linkedin.com/in/ruaridh-murdoch-399ba4260/"
+        },
+        {
+          "name": "Ikem Enebeli",
+          "url": "https://www.linkedin.com/in/ikem-e/"
+        },
+        {
+          "name": "Aidan Ryder",
+          "url": "https://www.linkedin.com/in/aidan-ryder-b848aa266/"
+        },
+        {
+          "name": "Amarie Fasoro",
+          "url": "https://www.linkedin.com/in/amarie-fasoro-8104a42bb/"
+        }
+      ],
+      "order": 777,
+      "overlayTitle": "Human Centered Design"
+    },
+    {
+      "slug": "pocket-shaver",
+      "title": "Pocket Shaver Re-Design",
+      "year": 2025,
+      "role": "Design & Engineering",
+      "subtitle": "Selected work",
+      "cover": "assets/images/pocket-shaver_01.jpg",
+      "description": "",
+      "images": [
+        "assets/images/pocket-shaver_01.jpg"
+      ],
+      "videos": [],
+      "collaborators": [],
+      "order": 50
+    },
+    {
+      "slug": "ipad-stand",
+      "title": "iPad Stand",
+      "year": 2025,
+      "role": "Design & Engineering",
+      "subtitle": "Selected work",
+      "cover": "assets/images/ipad-stand_01.jpg",
+      "description": "",
+      "images": [
+        "assets/images/ipad-stand_01.jpg"
+      ],
+      "videos": [],
+      "collaborators": [],
+      "order": 40,
+      "overlayTitle": "CAD"
+    },
+    {
+      "slug": "hydromorph",
+      "title": "HydroMorph",
+      "year": 2024,
+      "role": "Design & Engineering",
+      "subtitle": "Selected work",
+      "cover": "assets/images/hydromorph_01.png",
+      "description": "",
+      "images": [
+        "assets/images/hydromorph_01.png",
+        "assets/images/hydromorph_02.png",
+        "assets/images/hydromorph_03.png",
+        "assets/images/hydromorph_04.png",
+        "assets/images/hydromorph_05.png",
+        "assets/images/hydromorph_06.png",
+        "assets/images/hydromorph_07.png",
+        "assets/images/hydromorph_08.png",
+        "assets/images/hydromorph_09.png",
+        "assets/images/hydromorph_10.png",
+        "assets/images/hydromorph_11.png",
+        "assets/images/hydromorph_12.png",
+        "assets/images/hydromorph_13.png",
+        "assets/images/hydromorph_14.png",
+        "assets/images/hydromorph_15.png",
+        "assets/images/hydromorph_16.png",
+        "assets/images/hydromorph_17.png",
+        "assets/images/hydromorph_18.png",
+        "assets/images/hydromorph_19.png",
+        "assets/images/hydromorph_20.png",
+        "assets/images/hydromorph_21.png",
+        "assets/images/hydromorph_22.png",
+        "assets/images/hydromorph_23.png",
+        "assets/images/hydromorph_24.png",
+        "assets/images/hydromorph_25.png",
+        "assets/images/hydromorph_26.png",
+        "assets/images/hydromorph_27.png",
+        "assets/images/hydromorph_28.png",
+        "assets/images/hydromorph_29.png",
+        "assets/images/hydromorph_30.png",
+        "assets/images/hydromorph_31.png",
+        "assets/images/hydromorph_32.png",
+        "assets/images/hydromorph_33.png"
+      ],
+      "videos": [],
+      "collaborators": [],
+      "order": 30,
+      "overlayTitle": "Design Engineering Principles"
+    },
+    {
+      "slug": "drinks-dispenser",
+      "title": "Drinks Dispenser",
+      "year": 2024,
+      "role": "Design & Engineering",
+      "subtitle": "Selected work",
+      "cover": "assets/images/drinks-dispenser_01.jpg",
+      "description": "",
+      "images": [
+        "assets/images/drinks-dispenser_01.jpg"
+      ],
+      "videos": [],
+      "collaborators": [],
+      "order": 20,
+      "overlayTitle": "Design & Technology"
+    },
+    {
+      "slug": "in-progress",
+      "title": "Projects in Process",
+      "year": 2025,
+      "role": "Design & Engineering",
+      "subtitle": "Work in progress",
+      "cover": "assets/images/in-progress_01.jpg",
+      "description": "",
+      "images": [
+        "assets/images/in-progress_01.jpg"
+      ],
+      "videos": [],
+      "collaborators": [],
+      "order": 10
+    },
+    {
+      "slug": "sustainable-design-engineering",
+      "title": "Sustainable Design Engineering",
+      "year": 2025,
+      "role": "",
+      "subtitle": "Sustainable re-design of Economy-class aircraft seats and the processes in which they flow",
+      "cover": "assets/images/Untitlett3d (1)_Page_01.png",
+      "description": "Group project consisting of our research into the long-haul aircraft industry. Our aim was to identify pain points in the users' experience onboard typical long-haul flights, as well as the sustainability of the industry. We then researched into market demands, existing products, and how we may alleviate these issues, followed by independent exploration within our respective chosen fields.",
+      "images": [
+        "assets/images/Untitlett3d (1)_Page_01.png",
+        "assets/images/Untitlett3d (1)_Page_02.png",
+        "assets/images/Untitlett3d (1)_Page_03.png",
+        "assets/images/Untitlett3d (1)_Page_04.png",
+        "assets/images/Untitlett3d (1)_Page_05.png",
+        "assets/images/Untitlett3d (1)_Page_06.png",
+        "assets/images/Untitlett3d (1)_Page_07.png",
+        "assets/images/Untitlett3d (1)_Page_08.png",
+        "assets/images/Untitlett3d (1)_Page_09.png",
+        "assets/images/Untitlett3d (1)_Page_10.png",
+        "assets/images/Untitlett3d (1)_Page_11.png",
+        "assets/images/Untitlett3d (1)_Page_12.png",
+        "assets/images/Untitlett3d (1)_Page_13.png",
+        "assets/images/Untitlett3d (1)_Page_14.png",
+        "assets/images/Untitlett3d (1)_Page_15.png",
+        "assets/images/Untitlett3d (1)_Page_16.png",
+        "assets/images/Untitlett3d (1)_Page_17.png",
+        "assets/images/Untitlett3d (1)_Page_18.png",
+        "assets/images/Untitlett3d (1)_Page_19.png",
+        "assets/images/Untitlett3d (1)_Page_20.png",
+        "assets/images/Untitlett3d (1)_Page_21.png",
+        "assets/images/Untitlett3d (1)_Page_22.png",
+        "assets/images/Untitlett3d (1)_Page_23.png",
+        "assets/images/Untitlett3d (1)_Page_24.png",
+        "assets/images/Untitlett3d (1)_Page_25.png"
+
+      ],
+      "videos": [],
+      "collaborators": [
+        {
+          "name": "Leia Whitaker",
+          "url": "https://www.linkedin.com/in/leia-whitaker/"
+        },
+        {
+          "name": "Curtis Light",
+          "url": "https://www.linkedin.com/in/curtis-light/"
+        },
+        {
+          "name": "Karanjeet Singh",
+          "url": "https://www.linkedin.com/in/karanjeet-singh-6aa728364/"
+        }
+      ],
+      "order": 999,
+      "overlayTitle": "Sustainable Design"
+    }
+  ]
+}
