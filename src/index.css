@@ -63,3 +63,20 @@ body {
 .world {
   will-change: transform;
 }
+
+/* src/index.css */
+
+/* ...keep your existing content above... */
+
+/* Pointer event management
+   Default: non interactive 3D elements do not capture clicks
+   Opt in: add .interactive to anything clickable/hoverable
+*/
+.object-3d {
+  pointer-events: none;
+  will-change: transform;
+}
+.object-3d.interactive,
+.object-3d .interactive {
+  pointer-events: auto;
+}
