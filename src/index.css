@@ -1,3 +1,4 @@
+/* src/index.css */
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
@@ -49,4 +50,16 @@ body {
 }
 .dark .monitor-glow {
   box-shadow: 0 0 100px rgba(100, 150, 255, 0.4);
+}
+
+/* Pointer event management: prevent large scene planes from blocking interactions */
+.object-3d {
+  pointer-events: none;
+  will-change: transform;
+}
+.interactive {
+  pointer-events: auto;
+}
+.world {
+  will-change: transform;
 }
