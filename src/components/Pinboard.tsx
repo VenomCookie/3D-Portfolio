@@ -38,16 +38,25 @@ export function Pinboard({ isActive, onClick, theme, onOpenProject }: PinboardPr
     return tags.includes(activeFilter);
   };
 
-  return (
-    <div 
-      className="object-3d interactive cursor-pointer group"
-      style={{
-        width: 1200, height: 1000, left: -600, top: -500,
-        transform: 'translateX(-1000px) translateY(-200px) translateZ(-980px)',
-      }}
-      onClick={onClick}
-    >
-      {/* (rest unchanged) */}
-    </div>
-  );
+/* src/components/Pinboard.tsx */
+
+return (
+  <div
+    className="object-3d interactive cursor-pointer group"
+    style={{
+      width: 1200,
+      height: 1000,
+      left: -600,
+      top: -500,
+
+      /* Keep your original transform here.
+         If you want it visible from room view, do NOT put it behind the camera.
+         This is a safe starting point: */
+      transform: 'translateX(-900px) translateY(-160px) translateZ(-700px)',
+    }}
+    onClick={onClick}
+  >
+    {/* rest of your component unchanged */}
+  </div>
+);
 }
